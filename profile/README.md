@@ -1,6 +1,7 @@
 # BH Futures Foundation MMS team docs
 
-## Current team lead: Amer Pasanbegovic
+## Current team lead: 
+- Amer Pasanbegovic
 
 ## Current team members:
 - Haris Mujic: arduino, web, 3d printing, python, IT career path
