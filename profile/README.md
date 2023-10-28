@@ -30,7 +30,7 @@
 - IT career path:
   - Online and live format
   - High school and university
-  - docs need updates
+  - docs up-to-date (2023)
  
 ## Backlog:
 - Data science/ML workshop:
