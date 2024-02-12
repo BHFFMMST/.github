@@ -9,12 +9,17 @@
 - Vladimir Mijic: python, IT career path
 - Elvira Delic: web, IT career path
 - Lamija Ahmetasevic: arduino, web
+- Ahmed Spahic: web
+- Jasmin Oruc: web
+- Advan Arnautovic: G/M code, 3d printing
+- Esma Alicic: python, data science(?)
+- Adnan Ferhatovic: python
 
 ## Currently implemented workshops:
 - 3D Printing
   - Live format
   - Primary school, high school and university (only for people with no prior knowledge)
-  - docs up-to-date (2023)
+  - docs up-to-date (2024)
 - Arduino:
   - Live format
   - High school and university (adaptable based on attendants knowledge)
@@ -30,16 +35,11 @@
 - IT career path:
   - Online and live format
   - High school and university
-  - docs up-to-date (2023)
+  - docs up-to-date (2024)
  
 ## Backlog:
 - Data science/ML workshop:
-  - Sync between Almedin, Vladimir and Amer
   - Make as modules of python workshops?
-  - High priority
-- Game dev workshop:
-  - Sync between Almedin, Amer and Elvira?
-  - Make as a seperate workshop
   - High priority
 - Uvod u AI:
   - Re-contact Zorana Staka for raStem workshop materials
